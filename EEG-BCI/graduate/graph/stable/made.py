@@ -45,8 +45,8 @@ knn = knn * 100
 
 freq = [6 , 7.5 , 8.5 , 10]
 
-
 plt.figure(figsize=(2.73,1.99))
+
 
 
 plt.plot(freq , dt , marker='o' , label='dt')
